@@ -1,0 +1,100 @@
+#     reading: none
+#     links:
+#       slides: slides/introduction.pdf
+#        8up: slides/introduction-handout.pdf
+- week: "00"
+  dates:
+    Nov 02: "No class"
+    Nov 05: "No class"
+- week: "01"
+  dates:
+    Nov 09:
+      topic: Introduction, administrivia
+    Nov 12:
+      topic: Fromal Languages
+- week: "02"
+  dates:
+    Nov 16:
+      topic: Fromal Languages (cont)
+    Nov 19:
+      topic: Generation
+- week: "03"
+  dates:
+    Nov 23:
+      topic: Top-down parsing
+    Nov 26:
+      topic: Bottom-up parsing
+- week: "04"
+  dates:
+    Nov 30:
+      topic: CKY
+    Dec 03:
+      topic: CKY/exercises
+- week: "05"
+  dates:
+    Dec 07:
+      topic: Earley
+    Dec 10:
+      topic: Table-driven parsing 
+- week: "06"
+  dates:
+    Dec 14:
+      topic: Deterministic parsing
+    Dec 17:
+      topic: exercises
+- week: "07"
+  dates:
+    Dec 21:
+      topic: summary
+    Dec 25: "Sem. break"
+- week: ""
+  dates:
+    Dec 28: "Sem. break"
+    Dec 31: "Sem. break"
+- week: "08"
+  dates:
+    Jan 04: "Sem. break"
+    Jan 07:
+      topic: Summary
+- week: "09"
+  dates:
+    Jan 11:
+      topic: PCFG parsing /summary
+    Jan 14:
+      topic: PCFG parsing
+- week: "10"
+  dates:
+    Jan 18: 
+      topic: Dependency grammars
+    Jan 21:
+      topic: Dependency grammars (cont)
+- week: "11"
+  dates:
+    Jan 25:
+      topic: Dependency treebanks
+    Jan 28:
+      topic: Classification
+- week: "12"
+  dates:
+    Feb 01:
+      topic: Transition-based parsing
+    Feb 04:
+      topic: Transition-based parsing
+- week: "13"
+  dates:
+    Feb 08:
+      topic: MST
+    Feb 11:
+      topic: MST
+- week: "14"
+  dates:
+    Feb 15:
+      topic: Converting constituencies to dependencies
+    Feb 18:
+      topic: exercises
+- week: "15"
+  dates:
+    Feb 22:
+      topic: Summary / Exam discussion
+    Feb 25:
+      topic: Exam
