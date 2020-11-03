@@ -17,7 +17,7 @@ description: > # ignore newlines until "baseurl:"
     taught in the linguistic department (SfS), University of Tübingen.
 baseurl: ""
 url: "https://iscl-parsing202.github.io"
-github_username: iscl-parsing202
+github_username: iscl-parsing2020
 encoding: utf-8
 future: true
 

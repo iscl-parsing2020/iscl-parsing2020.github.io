@@ -33,7 +33,7 @@ and dependency parsing.
 
 The objectives of the course include:
 
-  * Learning basics theory behind phrase-structure grammars
+  * Learning basic theory behind phrase-structure grammars
     and their relation to (the theory of) computation and automata.
   * Understand the concepts behind 
     - Top-down/bottom-up parsing
@@ -43,7 +43,7 @@ The objectives of the course include:
 
 The focus of the course is understanding the theory of parsing
 (and its use in parsing natural languages).
-Although there isn't practical programming exercises,
+Although we do not focus on practical programming exercises,
 you should be able to ready to implement a variety of parsing algorithms
 after finishing this course.
 
