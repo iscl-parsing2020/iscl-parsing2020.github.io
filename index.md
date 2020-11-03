@@ -54,3 +54,6 @@ after finishing this course.
 * _Speech and Language Processing_, 2nd edition, Jurafsky and Martin, 2009.
    Draft [chapters from the third edition](http://web.stanford.edu/~jurafsky/slp3/)
   are available online.
+* _Dependency Parsing_, Kübler, McDonald and Nivre, 2009.
+   Draft [chapters from the third edition](http://web.stanford.edu/~jurafsky/slp3/)
+  are available online.
