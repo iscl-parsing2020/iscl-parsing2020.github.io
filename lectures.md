@@ -14,7 +14,7 @@ after each class.
     <tr>
       <th style="text-align:left;" width="10%">Week</th>
       <th style="text-align:left;" width="30%">Monday</th>
-      <th style="text-align:left;" width="30%">Wednesday</th>
+      <th style="text-align:left;" width="30%">Thursday</th>
     </tr>
   </thead>
   <tbody style="border-bottom: 1px solid #000;">

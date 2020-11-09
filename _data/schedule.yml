@@ -10,6 +10,9 @@
   dates:
     Nov 09:
       topic: Introduction, administrivia
+      links:
+        slides: slides/introduction.pdf
+        8up: slides/introduction-handout.pdf
     Nov 12:
       topic: Fromal Languages
 - week: "02"
