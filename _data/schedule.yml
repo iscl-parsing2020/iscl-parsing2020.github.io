@@ -15,6 +15,7 @@
         8up: slides/introduction-handout.pdf
     Nov 12:
       topic: Fromal Languages
+      links:
         slides: slides/formal-languages.pdf
         8up: slides/formal-languages-handout.pdf
 - week: "02"
