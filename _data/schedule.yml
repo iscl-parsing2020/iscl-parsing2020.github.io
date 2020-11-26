@@ -27,9 +27,12 @@
 - week: "03"
   dates:
     Nov 23:
-      topic: Top-down parsing
+      topic: Introduction to parsin
+      links:
+        slides: slides/parsing-intro.pdf
+        8up: slides/parsing-intro-handout.pdf
     Nov 26:
-      topic: Bottom-up parsing
+      topic: Introduction to parsin
 - week: "04"
   dates:
     Nov 30:
