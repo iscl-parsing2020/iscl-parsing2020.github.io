@@ -37,6 +37,9 @@
   dates:
     Nov 30:
       topic: CKY
+      links:
+        slides: slides/cky.pdf
+        8up: slides/cky-handout.pdf
     Dec 03:
       topic: CKY/exercises
 - week: "05"
