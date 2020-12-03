@@ -41,11 +41,14 @@
         slides: slides/cky.pdf
         8up: slides/cky-handout.pdf
     Dec 03:
-      topic: CKY/exercises
+      topic: Earley
+      links:
+        slides: slides/earley.pdf
+        8up: slides/earley-handout.pdf
 - week: "05"
   dates:
     Dec 07:
-      topic: Earley
+      topic: Exercises
     Dec 10:
       topic: Table-driven parsing 
 - week: "06"
@@ -53,7 +56,7 @@
     Dec 14:
       topic: Deterministic parsing
     Dec 17:
-      topic: exercises
+      topic: Deterministic parsing
 - week: "07"
   dates:
     Dec 21:
