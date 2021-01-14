@@ -50,13 +50,19 @@
     Dec 07:
       topic: Exercises
     Dec 10:
-      topic: Table-driven parsing 
+      topic: Chart parsing
+      links:
+        slides: slides/chart-parsing.pdf
+        8up: slides/chart-parsing-handout.pdf
 - week: "06"
   dates:
     Dec 14:
-      topic: Deterministic parsing
+      topic: Chart Parsing
     Dec 17:
-      topic: Deterministic parsing
+      topic: Detrministic top-down parsing
+      links:
+        slides: slides/llk.pdf
+        8up: slides/llk-handout.pdf
 - week: "07"
   dates:
     Dec 21:
@@ -70,25 +76,25 @@
   dates:
     Jan 04: "Sem. break"
     Jan 07:
-      topic: Summary
+      topic: Detrministic top-down parsing
 - week: "09"
   dates:
     Jan 11:
-      topic: PCFG parsing /summary
+      topic: Detrministic bottom-up parsing
     Jan 14:
-      topic: PCFG parsing
+      topic: Detrministic bottom-up parsing
 - week: "10"
   dates:
     Jan 18: 
-      topic: Dependency grammars
+      topic: Detrministic bottom-up parsing
     Jan 21:
-      topic: Dependency grammars (cont)
+      topic: PCFG / CF parsing summary
 - week: "11"
   dates:
     Jan 25:
-      topic: Dependency treebanks
+      topic: Dependency grammars
     Jan 28:
-      topic: Classification
+      topic: Dependency grammars
 - week: "12"
   dates:
     Feb 01:
