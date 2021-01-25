@@ -27,7 +27,7 @@
 - week: "03"
   dates:
     Nov 23:
-      topic: Introduction to parsin
+      topic: Introduction to parsing
       links:
         slides: slides/parsing-intro.pdf
         8up: slides/parsing-intro-handout.pdf
@@ -81,6 +81,9 @@
   dates:
     Jan 11:
       topic: Detrministic bottom-up parsing
+      links:
+        slides: slides/lrk.pdf
+        8up: slides/lrk-handout.pdf
     Jan 14:
       topic: Detrministic bottom-up parsing
 - week: "10"
@@ -88,11 +91,14 @@
     Jan 18: 
       topic: Detrministic bottom-up parsing
     Jan 21:
-      topic: PCFG / CF parsing summary
+      topic: Detrministic bottom-up parsing
 - week: "11"
   dates:
     Jan 25:
       topic: Dependency grammars
+      links:
+        slides: slides/pcfg-parsing.pdf
+        8up: slides/pcfg-parsing-handout.pdf
     Jan 28:
       topic: Dependency grammars
 - week: "12"
