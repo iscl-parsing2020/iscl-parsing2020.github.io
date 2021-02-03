@@ -95,33 +95,33 @@
 - week: "11"
   dates:
     Jan 25:
-      topic: Dependency grammars
-      links:
-        slides: slides/pcfg-parsing.pdf
-        8up: slides/pcfg-parsing-handout.pdf
+      topic: Detrministic parsing
     Jan 28:
-      topic: Dependency grammars
+      topic: Detrministic parsing
 - week: "12"
   dates:
     Feb 01:
-      topic: Transition-based parsing
+      topic: Depenency grammars
+      links:
+        slides: slides/pcfg-parsing.pdf
+        8up: slides/pcfg-parsing-handout.pdf
     Feb 04:
-      topic: Transition-based parsing
+      topic: Depenency grammars
 - week: "13"
   dates:
     Feb 08:
-      topic: MST
+      topic: Transition based parsing
     Feb 11:
-      topic: MST
+      topic: Transition based parsing
 - week: "14"
   dates:
     Feb 15:
-      topic: Converting constituencies to dependencies
+      topic: MST
     Feb 18:
-      topic: exercises
+      topic: summary / exercises
 - week: "15"
   dates:
     Feb 22:
-      topic: Summary / Exam discussion
+      topic: Exam 
     Feb 25:
-      topic: Exam
+      topic: Exam discussion / exercises
