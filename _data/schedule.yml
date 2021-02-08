@@ -109,9 +109,12 @@
       topic: Depenency grammars
 - week: "13"
   dates:
-    Feb 08:
+    Feb 01:
       topic: Transition based parsing
-    Feb 11:
+      links:
+        slides: slides/dep-parsing-tb.pdf
+        8up: slides/dep-parsing-tb-handout.pdf
+    Feb 04:
       topic: Transition based parsing
 - week: "14"
   dates:
