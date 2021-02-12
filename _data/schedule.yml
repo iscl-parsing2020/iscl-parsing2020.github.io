@@ -120,6 +120,9 @@
   dates:
     Feb 15:
       topic: MST
+      links:
+        slides: slides/dep-parsing-mst.pdf
+        8up: slides/dep-parsing-mst-handout.pdf
     Feb 18:
       topic: summary / exercises
 - week: "15"
